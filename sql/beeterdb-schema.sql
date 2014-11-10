@@ -22,7 +22,7 @@ create table stings (
 	username 			varchar(20) not null,
 	subject				varchar(100) not null,
 	content				varchar(500) not null,
-	last_modified			timestamp,
+	last_modified			timestamp default current_timestamp ON UPDATE CURRENT_TIMESTAMP,
 	creation_timestamp		datetime not null default current_timestamp,
 	foreign key(username) 	references users(username)
 );
