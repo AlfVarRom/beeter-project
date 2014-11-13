@@ -1,8 +1,7 @@
 # Beeter
 
 ###Ejercicio extra:
- 1: 
-
+ Esta comentado los 2 gets extras que hice para "mejorar" el beeter y la pregunta de borrar un usuario sin borrar sus stings es una pregunta que no se puede realizar sin modificar la base de datos ya que esta creada para hacer un borrado en cascada. 
 
 Beeter is an educational project developed at course "Design of Services and Applications" of  Castelldefels School of Telecommunications and Aerospace Engineering (EETAC). Beeter is a very simple microblogging service with a web front-end developed with Bootstrap and jQuery, and an android front-end.
 
