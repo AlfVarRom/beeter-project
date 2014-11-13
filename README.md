@@ -1,5 +1,9 @@
 # Beeter
 
+###Ejercicio extra:
+ 1: 
+
+
 Beeter is an educational project developed at course "Design of Services and Applications" of  Castelldefels School of Telecommunications and Aerospace Engineering (EETAC). Beeter is a very simple microblogging service with a web front-end developed with Bootstrap and jQuery, and an android front-end.
 
 ## System requirements
